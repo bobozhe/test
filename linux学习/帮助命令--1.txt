@@ -1,0 +1,16 @@
+man
+
+man -f命令
+相当于whatis命令
+
+举例
+man -5 passwd
+man -4 null
+man -8 ifconfig
+
+whereis 也可以用来查看和等级相关的东西
+比如
+whereis passwd
+
+man -k命令
+相当于apropos
