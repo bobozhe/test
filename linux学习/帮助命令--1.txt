@@ -14,3 +14,5 @@ whereis passwd
 
 man -k命令
 相当于apropos
+例如
+apropos passwd
